@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Alert from "./Alert";
 import "./App.css";
 import ToDo from "./ToDo";
-import image from "./todo-image.png";
+import image from "./todo2.png";
 
 // We need to have a localStorage to not lose all values after refreshing the page
 
